@@ -1,7 +1,7 @@
 <script>
     import axios from 'axios';
-  import NavBar from '../../components/NavBar.svelte';
-  import { navigate } from 'svelte-routing';
+    import NavBar from '../../components/NavBar.svelte';
+    import { navigate } from 'svelte-routing';
 
     var email = "";
     var password = "";
